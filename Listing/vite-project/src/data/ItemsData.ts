@@ -1,4 +1,4 @@
-export const itemsData = `[
+export const itemsData = [
     {
         "listing_id": 708099714,
         "state": "active",
@@ -2329,4 +2329,4 @@ export const itemsData = `[
             "full_width": null
         }
     }
-]`
+]
